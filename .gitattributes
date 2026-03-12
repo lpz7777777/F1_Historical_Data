@@ -1,0 +1,2 @@
+session_data/*/location.json filter=lfs diff=lfs merge=lfs -text
+session_data/*/location.json !text !filter !merge !diff
