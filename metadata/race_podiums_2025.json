@@ -724,24 +724,24 @@
         "podium": [
           {
             "position": 1,
+            "driver_number": 1,
+            "acronym": "VER",
+            "full_name": "Max VERSTAPPEN",
+            "team_name": "Red Bull Racing"
+          },
+          {
+            "position": 2,
             "driver_number": 4,
             "acronym": "NOR",
             "full_name": "Lando NORRIS",
             "team_name": "McLaren"
           },
           {
-            "position": 2,
-            "driver_number": 81,
-            "acronym": "PIA",
-            "full_name": "Oscar PIASTRI",
-            "team_name": "McLaren"
-          },
-          {
             "position": 3,
-            "driver_number": 27,
-            "acronym": "HUL",
-            "full_name": "Nico HULKENBERG",
-            "team_name": "Kick Sauber"
+            "driver_number": 63,
+            "acronym": "RUS",
+            "full_name": "George RUSSELL",
+            "team_name": "Mercedes"
           }
         ]
       }
