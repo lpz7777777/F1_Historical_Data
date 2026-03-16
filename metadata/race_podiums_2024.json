@@ -127,37 +127,6 @@
       },
       {
         "meeting_key": 1233,
-        "session_key": 9672,
-        "country": "China",
-        "location": "Shanghai",
-        "meeting_name": "Chinese Grand Prix",
-        "date": "2024-04-21T09:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 1,
-            "acronym": "VER",
-            "full_name": "Max VERSTAPPEN",
-            "team_name": "Red Bull Racing"
-          },
-          {
-            "position": 2,
-            "driver_number": 44,
-            "acronym": "HAM",
-            "full_name": "Lewis HAMILTON",
-            "team_name": "Mercedes"
-          },
-          {
-            "position": 3,
-            "driver_number": 11,
-            "acronym": "PER",
-            "full_name": "Sergio PEREZ",
-            "team_name": "Red Bull Racing"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1233,
         "session_key": 9673,
         "country": "China",
         "location": "Shanghai",
@@ -177,37 +146,6 @@
             "acronym": "NOR",
             "full_name": "Lando NORRIS",
             "team_name": "McLaren"
-          },
-          {
-            "position": 3,
-            "driver_number": 11,
-            "acronym": "PER",
-            "full_name": "Sergio PEREZ",
-            "team_name": "Red Bull Racing"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1234,
-        "session_key": 9506,
-        "country": "United States",
-        "location": "Miami",
-        "meeting_name": "Miami Grand Prix",
-        "date": "2024-05-05T22:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 1,
-            "acronym": "VER",
-            "full_name": "Max VERSTAPPEN",
-            "team_name": "Red Bull Racing"
-          },
-          {
-            "position": 2,
-            "driver_number": 16,
-            "acronym": "LEC",
-            "full_name": "Charles LECLERC",
-            "team_name": "Ferrari"
           },
           {
             "position": 3,
@@ -370,37 +308,6 @@
             "acronym": "HAM",
             "full_name": "Lewis HAMILTON",
             "team_name": "Mercedes"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1239,
-        "session_key": 9549,
-        "country": "Austria",
-        "location": "Spielberg",
-        "meeting_name": "Austrian Grand Prix",
-        "date": "2024-06-30T15:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 1,
-            "acronym": "VER",
-            "full_name": "Max VERSTAPPEN",
-            "team_name": "Red Bull Racing"
-          },
-          {
-            "position": 2,
-            "driver_number": 81,
-            "acronym": "PIA",
-            "full_name": "Oscar PIASTRI",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 3,
-            "driver_number": 4,
-            "acronym": "NOR",
-            "full_name": "Lando NORRIS",
-            "team_name": "McLaren"
           }
         ]
       },
@@ -654,37 +561,6 @@
       },
       {
         "meeting_key": 1247,
-        "session_key": 9616,
-        "country": "United States",
-        "location": "Austin",
-        "meeting_name": "United States Grand Prix",
-        "date": "2024-10-20T21:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 1,
-            "acronym": "VER",
-            "full_name": "Max VERSTAPPEN",
-            "team_name": "Red Bull Racing"
-          },
-          {
-            "position": 2,
-            "driver_number": 55,
-            "acronym": "SAI",
-            "full_name": "Carlos SAINZ",
-            "team_name": "Ferrari"
-          },
-          {
-            "position": 3,
-            "driver_number": 4,
-            "acronym": "NOR",
-            "full_name": "Lando NORRIS",
-            "team_name": "McLaren"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1247,
         "session_key": 9617,
         "country": "United States",
         "location": "Austin",
@@ -747,37 +623,6 @@
       },
       {
         "meeting_key": 1249,
-        "session_key": 9635,
-        "country": "Brazil",
-        "location": "São Paulo",
-        "meeting_name": "São Paulo Grand Prix",
-        "date": "2024-11-03T17:30:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 4,
-            "acronym": "NOR",
-            "full_name": "Lando NORRIS",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 2,
-            "driver_number": 81,
-            "acronym": "PIA",
-            "full_name": "Oscar PIASTRI",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 3,
-            "driver_number": 1,
-            "acronym": "VER",
-            "full_name": "Max VERSTAPPEN",
-            "team_name": "Red Bull Racing"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1249,
         "session_key": 9636,
         "country": "Brazil",
         "location": "São Paulo",
@@ -835,37 +680,6 @@
             "acronym": "SAI",
             "full_name": "Carlos SAINZ",
             "team_name": "Ferrari"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1251,
-        "session_key": 9654,
-        "country": "Qatar",
-        "location": "Lusail",
-        "meeting_name": "Qatar Grand Prix",
-        "date": "2024-12-01T18:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 81,
-            "acronym": "PIA",
-            "full_name": "Oscar PIASTRI",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 2,
-            "driver_number": 4,
-            "acronym": "NOR",
-            "full_name": "Lando NORRIS",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 3,
-            "driver_number": 63,
-            "acronym": "RUS",
-            "full_name": "George RUSSELL",
-            "team_name": "Mercedes"
           }
         ]
       },

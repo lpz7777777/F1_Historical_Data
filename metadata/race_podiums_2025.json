@@ -34,37 +34,6 @@
       },
       {
         "meeting_key": 1255,
-        "session_key": 9993,
-        "country": "China",
-        "location": "Shanghai",
-        "meeting_name": "Chinese Grand Prix",
-        "date": "2025-03-23T09:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 44,
-            "acronym": "HAM",
-            "full_name": "Lewis HAMILTON",
-            "team_name": "Ferrari"
-          },
-          {
-            "position": 2,
-            "driver_number": 81,
-            "acronym": "PIA",
-            "full_name": "Oscar PIASTRI",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 3,
-            "driver_number": 1,
-            "acronym": "VER",
-            "full_name": "Max VERSTAPPEN",
-            "team_name": "Red Bull Racing"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1255,
         "session_key": 9998,
         "country": "China",
         "location": "Shanghai",
@@ -183,37 +152,6 @@
             "driver_number": 16,
             "acronym": "LEC",
             "full_name": "Charles LECLERC",
-            "team_name": "Ferrari"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1259,
-        "session_key": 10028,
-        "country": "United States",
-        "location": "Miami Gardens",
-        "meeting_name": "Miami Grand Prix",
-        "date": "2025-05-04T22:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 4,
-            "acronym": "NOR",
-            "full_name": "Lando NORRIS",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 2,
-            "driver_number": 81,
-            "acronym": "PIA",
-            "full_name": "Oscar PIASTRI",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 3,
-            "driver_number": 44,
-            "acronym": "HAM",
-            "full_name": "Lewis HAMILTON",
             "team_name": "Ferrari"
           }
         ]
@@ -406,37 +344,6 @@
       },
       {
         "meeting_key": 1265,
-        "session_key": 9934,
-        "country": "Belgium",
-        "location": "Spa-Francorchamps",
-        "meeting_name": "Belgian Grand Prix",
-        "date": "2025-07-27T15:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 1,
-            "acronym": "VER",
-            "full_name": "Max VERSTAPPEN",
-            "team_name": "Red Bull Racing"
-          },
-          {
-            "position": 2,
-            "driver_number": 81,
-            "acronym": "PIA",
-            "full_name": "Oscar PIASTRI",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 3,
-            "driver_number": 4,
-            "acronym": "NOR",
-            "full_name": "Lando NORRIS",
-            "team_name": "McLaren"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1265,
         "session_key": 9939,
         "country": "Belgium",
         "location": "Spa-Francorchamps",
@@ -623,37 +530,6 @@
       },
       {
         "meeting_key": 1271,
-        "session_key": 9883,
-        "country": "United States",
-        "location": "Austin",
-        "meeting_name": "United States Grand Prix",
-        "date": "2025-10-19T21:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 1,
-            "acronym": "VER",
-            "full_name": "Max VERSTAPPEN",
-            "team_name": "Red Bull Racing"
-          },
-          {
-            "position": 2,
-            "driver_number": 63,
-            "acronym": "RUS",
-            "full_name": "George RUSSELL",
-            "team_name": "Mercedes"
-          },
-          {
-            "position": 3,
-            "driver_number": 55,
-            "acronym": "SAI",
-            "full_name": "Carlos SAINZ",
-            "team_name": "Williams"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1271,
         "session_key": 9888,
         "country": "United States",
         "location": "Austin",
@@ -773,37 +649,6 @@
             "acronym": "RUS",
             "full_name": "George RUSSELL",
             "team_name": "Mercedes"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1275,
-        "session_key": 9845,
-        "country": "Qatar",
-        "location": "Lusail",
-        "meeting_name": "Qatar Grand Prix",
-        "date": "2025-11-30T18:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 81,
-            "acronym": "PIA",
-            "full_name": "Oscar PIASTRI",
-            "team_name": "McLaren"
-          },
-          {
-            "position": 2,
-            "driver_number": 63,
-            "acronym": "RUS",
-            "full_name": "George RUSSELL",
-            "team_name": "Mercedes"
-          },
-          {
-            "position": 3,
-            "driver_number": 4,
-            "acronym": "NOR",
-            "full_name": "Lando NORRIS",
-            "team_name": "McLaren"
           }
         ]
       },

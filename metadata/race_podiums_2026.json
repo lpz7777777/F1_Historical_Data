@@ -34,37 +34,6 @@
       },
       {
         "meeting_key": 1280,
-        "session_key": 11240,
-        "country": "China",
-        "location": "Shanghai",
-        "meeting_name": "Chinese Grand Prix",
-        "date": "2026-03-15T09:00:00+00:00",
-        "podium": [
-          {
-            "position": 1,
-            "driver_number": 63,
-            "acronym": "RUS",
-            "full_name": "George RUSSELL",
-            "team_name": "Mercedes"
-          },
-          {
-            "position": 2,
-            "driver_number": 16,
-            "acronym": "LEC",
-            "full_name": "Charles LECLERC",
-            "team_name": "Ferrari"
-          },
-          {
-            "position": 3,
-            "driver_number": 44,
-            "acronym": "HAM",
-            "full_name": "Lewis HAMILTON",
-            "team_name": "Ferrari"
-          }
-        ]
-      },
-      {
-        "meeting_key": 1280,
         "session_key": 11245,
         "country": "China",
         "location": "Shanghai",
