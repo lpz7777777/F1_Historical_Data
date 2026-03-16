@@ -48,6 +48,14 @@
     "country_code": "MEX"
   },
   {
+    "driver_number": 12,
+    "name_acronym": "ANT",
+    "full_name": "Kimi ANTONELLI",
+    "team_name": "Mercedes",
+    "team_colour": "27F4D2",
+    "country_code": "ITA"
+  },
+  {
     "driver_number": 14,
     "name_acronym": "ALO",
     "full_name": "Fernando ALONSO",
@@ -112,6 +120,22 @@
     "country_code": "GER"
   },
   {
+    "driver_number": 28,
+    "name_acronym": "HIR",
+    "full_name": "Ryo HIRAKAWA",
+    "team_name": "McLaren",
+    "team_colour": "FF8000",
+    "country_code": "JPN"
+  },
+  {
+    "driver_number": 29,
+    "name_acronym": "OWA",
+    "full_name": "Patricio O'WARD",
+    "team_name": "McLaren",
+    "team_colour": "FF8000",
+    "country_code": "MEX"
+  },
+  {
     "driver_number": 30,
     "name_acronym": "LAW",
     "full_name": "Liam LAWSON",
@@ -128,12 +152,44 @@
     "country_code": "FRA"
   },
   {
+    "driver_number": 34,
+    "name_acronym": "DRU",
+    "full_name": "Felipe DRUGOVICH",
+    "team_name": "Aston Martin",
+    "team_colour": "229971",
+    "country_code": "BRA"
+  },
+  {
+    "driver_number": 37,
+    "name_acronym": "HAD",
+    "full_name": "Isack HADJAR",
+    "team_name": "Red Bull Racing",
+    "team_colour": "3671C6",
+    "country_code": "FRA"
+  },
+  {
     "driver_number": 38,
     "name_acronym": "BEA",
     "full_name": "Oliver BEARMAN",
     "team_name": "Ferrari",
     "team_colour": "E80020",
     "country_code": "GBR"
+  },
+  {
+    "driver_number": 39,
+    "name_acronym": "LEL",
+    "full_name": "Arthur LECLERC",
+    "team_name": "Ferrari",
+    "team_colour": "E80020",
+    "country_code": "MON"
+  },
+  {
+    "driver_number": 40,
+    "name_acronym": "IWA",
+    "full_name": "Ayumu IWASA",
+    "team_name": "RB",
+    "team_colour": "6692FF",
+    "country_code": "JPN"
   },
   {
     "driver_number": 43,
@@ -152,6 +208,22 @@
     "country_code": "GBR"
   },
   {
+    "driver_number": 45,
+    "name_acronym": "COL",
+    "full_name": "Franco COLAPINTO",
+    "team_name": "Williams",
+    "team_colour": "64C4FF",
+    "country_code": "ARG"
+  },
+  {
+    "driver_number": 46,
+    "name_acronym": "BRO",
+    "full_name": "Luke BROWNING",
+    "team_name": "Williams",
+    "team_colour": "64C4FF",
+    "country_code": "GBR"
+  },
+  {
     "driver_number": 50,
     "name_acronym": "BEA",
     "full_name": "Oliver BEARMAN",
@@ -166,6 +238,14 @@
     "team_name": "Ferrari",
     "team_colour": "E80020",
     "country_code": "ESP"
+  },
+  {
+    "driver_number": 61,
+    "name_acronym": "DOO",
+    "full_name": "Jack DOOHAN",
+    "team_name": "Alpine",
+    "team_colour": "0093cc",
+    "country_code": "AUS"
   },
   {
     "driver_number": 63,
@@ -190,5 +270,13 @@
     "team_name": "McLaren",
     "team_colour": "FF8000",
     "country_code": "AUS"
+  },
+  {
+    "driver_number": 97,
+    "name_acronym": "SHW",
+    "full_name": "Robert SHWARTZMAN",
+    "team_name": "Kick Sauber",
+    "team_colour": "52e252",
+    "country_code": "ISR"
   }
 ]
