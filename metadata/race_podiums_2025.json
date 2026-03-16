@@ -713,6 +713,37 @@
             "team_name": "McLaren"
           }
         ]
+      },
+      {
+        "meeting_key": 1277,
+        "session_key": 9947,
+        "country": "United Kingdom",
+        "location": "Silverstone",
+        "meeting_name": "British Grand Prix",
+        "date": "2025-07-06T16:00:00+00:00",
+        "podium": [
+          {
+            "position": 1,
+            "driver_number": 4,
+            "acronym": "NOR",
+            "full_name": "Lando NORRIS",
+            "team_name": "McLaren"
+          },
+          {
+            "position": 2,
+            "driver_number": 81,
+            "acronym": "PIA",
+            "full_name": "Oscar PIASTRI",
+            "team_name": "McLaren"
+          },
+          {
+            "position": 3,
+            "driver_number": 27,
+            "acronym": "HUL",
+            "full_name": "Nico HULKENBERG",
+            "team_name": "Sauber"
+          }
+        ]
       }
     ]
   }
