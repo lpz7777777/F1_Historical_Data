@@ -1,0 +1,222 @@
+[
+  {
+    "position": 1,
+    "forenames": "",
+    "surname": "",
+    "acronym": "RUS",
+    "team_name": "Mercedes",
+    "points": 51,
+    "wins": 0,
+    "country_code": "GBR"
+  },
+  {
+    "position": 2,
+    "forenames": "",
+    "surname": "",
+    "acronym": "ANT",
+    "team_name": "Mercedes",
+    "points": 47,
+    "wins": 0,
+    "country_code": "ITA"
+  },
+  {
+    "position": 3,
+    "forenames": "",
+    "surname": "",
+    "acronym": "LEC",
+    "team_name": "Ferrari",
+    "points": 34,
+    "wins": 0,
+    "country_code": "MON"
+  },
+  {
+    "position": 4,
+    "forenames": "",
+    "surname": "",
+    "acronym": "HAM",
+    "team_name": "Ferrari",
+    "points": 33,
+    "wins": 0,
+    "country_code": "GBR"
+  },
+  {
+    "position": 5,
+    "forenames": "",
+    "surname": "",
+    "acronym": "BEA",
+    "team_name": "Haas F1 Team",
+    "points": 17,
+    "wins": 0,
+    "country_code": "GBR"
+  },
+  {
+    "position": 6,
+    "forenames": "",
+    "surname": "",
+    "acronym": "NOR",
+    "team_name": "McLaren",
+    "points": 15,
+    "wins": 0,
+    "country_code": "GBR"
+  },
+  {
+    "position": 7,
+    "forenames": "",
+    "surname": "",
+    "acronym": "GAS",
+    "team_name": "Alpine",
+    "points": 9,
+    "wins": 0,
+    "country_code": "FRA"
+  },
+  {
+    "position": 8,
+    "forenames": "",
+    "surname": "",
+    "acronym": "VER",
+    "team_name": "Red Bull Racing",
+    "points": 8,
+    "wins": 0,
+    "country_code": "NED"
+  },
+  {
+    "position": 9,
+    "forenames": "",
+    "surname": "",
+    "acronym": "LAW",
+    "team_name": "Racing Bulls",
+    "points": 8,
+    "wins": 0,
+    "country_code": "NZL"
+  },
+  {
+    "position": 10,
+    "forenames": "",
+    "surname": "",
+    "acronym": "LIN",
+    "team_name": "Racing Bulls",
+    "points": 4,
+    "wins": 0,
+    "country_code": "GBR"
+  },
+  {
+    "position": 11,
+    "forenames": "",
+    "surname": "",
+    "acronym": "HAD",
+    "team_name": "Red Bull Racing",
+    "points": 4,
+    "wins": 0,
+    "country_code": "FRA"
+  },
+  {
+    "position": 12,
+    "forenames": "",
+    "surname": "",
+    "acronym": "PIA",
+    "team_name": "McLaren",
+    "points": 3,
+    "wins": 0,
+    "country_code": "AUS"
+  },
+  {
+    "position": 13,
+    "forenames": "",
+    "surname": "",
+    "acronym": "SAI",
+    "team_name": "Williams",
+    "points": 2,
+    "wins": 0,
+    "country_code": "ESP"
+  },
+  {
+    "position": 14,
+    "forenames": "",
+    "surname": "",
+    "acronym": "BOR",
+    "team_name": "Audi",
+    "points": 2,
+    "wins": 0,
+    "country_code": "BRA"
+  },
+  {
+    "position": 15,
+    "forenames": "",
+    "surname": "",
+    "acronym": "COL",
+    "team_name": "Alpine",
+    "points": 1,
+    "wins": 0,
+    "country_code": "ARG"
+  },
+  {
+    "position": 16,
+    "forenames": "",
+    "surname": "",
+    "acronym": "OCO",
+    "team_name": "Haas F1 Team",
+    "points": 0,
+    "wins": 0,
+    "country_code": "FRA"
+  },
+  {
+    "position": 17,
+    "forenames": "",
+    "surname": "",
+    "acronym": "HUL",
+    "team_name": "Audi",
+    "points": 0,
+    "wins": 0,
+    "country_code": "GER"
+  },
+  {
+    "position": 18,
+    "forenames": "",
+    "surname": "",
+    "acronym": "ALB",
+    "team_name": "Williams",
+    "points": 0,
+    "wins": 0,
+    "country_code": "THA"
+  },
+  {
+    "position": 19,
+    "forenames": "",
+    "surname": "",
+    "acronym": "BOT",
+    "team_name": "Cadillac",
+    "points": 0,
+    "wins": 0,
+    "country_code": "FIN"
+  },
+  {
+    "position": 20,
+    "forenames": "",
+    "surname": "",
+    "acronym": "PER",
+    "team_name": "Cadillac",
+    "points": 0,
+    "wins": 0,
+    "country_code": "MEX"
+  },
+  {
+    "position": 21,
+    "forenames": "",
+    "surname": "",
+    "acronym": "ALO",
+    "team_name": "Aston Martin",
+    "points": 0,
+    "wins": 0,
+    "country_code": "ESP"
+  },
+  {
+    "position": 22,
+    "forenames": "",
+    "surname": "",
+    "acronym": "STR",
+    "team_name": "Aston Martin",
+    "points": 0,
+    "wins": 0,
+    "country_code": "CAN"
+  }
+]

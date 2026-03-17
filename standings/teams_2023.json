@@ -1,0 +1,72 @@
+[
+  {
+    "position": 1,
+    "team_name": "Red Bull Racing Honda RBPT",
+    "points": 860,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 2,
+    "team_name": "Mercedes",
+    "points": 409,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 3,
+    "team_name": "Ferrari",
+    "points": 406,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 4,
+    "team_name": "McLaren Mercedes",
+    "points": 302,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 5,
+    "team_name": "Aston Martin Aramco Mercedes",
+    "points": 280,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 6,
+    "team_name": "Alpine Renault",
+    "points": 120,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 7,
+    "team_name": "Williams Mercedes",
+    "points": 28,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 8,
+    "team_name": "AlphaTauri Honda RBPT",
+    "points": 25,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 9,
+    "team_name": "Alfa Romeo Ferrari",
+    "points": 16,
+    "wins": 0,
+    "team_color": null
+  },
+  {
+    "position": 10,
+    "team_name": "Haas Ferrari",
+    "points": 12,
+    "wins": 0,
+    "team_color": null
+  }
+]
