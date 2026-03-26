@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1251,
+  "meeting_name": "Qatar Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Lusail",
+  "reference_session_key": 9655,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Qatar_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.03370421329667933,
+        -0.06071076147169548
+      ],
+      [
+        -0.060710761471695414,
+        -0.0337042132966793
+      ]
+    ],
+    "translation": [
+      738.7362688004406,
+      577.0856120502415
+    ],
+    "mean_error_px": 2.655433244597002,
+    "std_error_px": 2.157483147876047,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

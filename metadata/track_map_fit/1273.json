@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1273,
+  "meeting_name": "São Paulo Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Interlagos",
+  "reference_session_key": 9869,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.0007582906351107257,
+        0.09517947256693034
+      ],
+      [
+        0.09517947256693035,
+        0.0007582906351107383
+      ]
+    ],
+    "translation": [
+      888.9703106425876,
+      439.3515498944704
+    ],
+    "mean_error_px": 5.930999286834944,
+    "std_error_px": 5.520389246278906,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

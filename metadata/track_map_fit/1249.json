@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1249,
+  "meeting_name": "São Paulo Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Interlagos",
+  "reference_session_key": 9636,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.0009046118513135662,
+        0.09518540179548725
+      ],
+      [
+        0.09518540179548718,
+        0.0009046118513135275
+      ]
+    ],
+    "translation": [
+      889.0920728357769,
+      439.8689678840445
+    ],
+    "mean_error_px": 5.92797084381796,
+    "std_error_px": 5.5859522175694645,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

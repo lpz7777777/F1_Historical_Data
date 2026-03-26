@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1261,
+  "meeting_name": "Monaco Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Monte Carlo",
+  "reference_session_key": 9979,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monaco_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.07040907081749685,
+        0.07005963984239179
+      ],
+      [
+        0.07005963984239182,
+        -0.07040907081749682
+      ]
+    ],
+    "translation": [
+      1217.6160959596277,
+      322.2271558020991
+    ],
+    "mean_error_px": 4.307027128108878,
+    "std_error_px": 6.05290102640381,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

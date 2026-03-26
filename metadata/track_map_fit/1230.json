@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1230,
+  "meeting_name": "Saudi Arabian Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Jeddah",
+  "reference_session_key": 9480,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.016138512778486103,
+        -0.04200835340749777
+      ],
+      [
+        -0.04200835340749781,
+        0.01613851277848609
+      ]
+    ],
+    "translation": [
+      924.2901519284645,
+      127.13562134137493
+    ],
+    "mean_error_px": 2.954969976601718,
+    "std_error_px": 2.7582172258334605,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

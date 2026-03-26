@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1246,
+  "meeting_name": "Singapore Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Singapore",
+  "reference_session_key": 9606,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Singapore_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.05920206100054302,
+        -0.00023337108914653544
+      ],
+      [
+        -0.00023337108914654514,
+        -0.059202061000542996
+      ]
+    ],
+    "translation": [
+      954.7334863301121,
+      282.67995391918083
+    ],
+    "mean_error_px": 2.2874057232857674,
+    "std_error_px": 1.873889862490629,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

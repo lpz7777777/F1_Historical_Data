@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1242,
+  "meeting_name": "Belgian Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Spa-Francorchamps",
+  "reference_session_key": 9574,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.004591621271929705,
+        -0.04857222083103922
+      ],
+      [
+        -0.048572220831039244,
+        0.0045916212719297024
+      ]
+    ],
+    "translation": [
+      408.0374076505037,
+      511.49782649433837
+    ],
+    "mean_error_px": 1.9597835641690264,
+    "std_error_px": 2.1034145905418358,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1211,
+  "meeting_name": "Spanish Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Catalunya",
+  "reference_session_key": 9102,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Spain_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.04626508957672342,
+        0.07271380209593313
+      ],
+      [
+        0.07271380209593316,
+        -0.04626508957672341
+      ]
+    ],
+    "translation": [
+      856.5280694855063,
+      405.7931405411428
+    ],
+    "mean_error_px": 3.391638172333964,
+    "std_error_px": 2.538503712157712,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

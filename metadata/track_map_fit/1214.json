@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1214,
+  "meeting_name": "British Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Silverstone",
+  "reference_session_key": 9126,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.00013276121798786928,
+        0.0541517663049353
+      ],
+      [
+        0.0541517663049353,
+        0.0001327612179878539
+      ]
+    ],
+    "translation": [
+      361.5449385224356,
+      165.4870292245066
+    ],
+    "mean_error_px": 4.231736368355939,
+    "std_error_px": 6.227747597356156,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

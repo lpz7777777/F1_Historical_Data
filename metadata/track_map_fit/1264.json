@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1264,
+  "meeting_name": "Austrian Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Spielberg",
+  "reference_session_key": 9955,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Austria_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.06036645838875225,
+        -0.02563925076270192
+      ],
+      [
+        -0.025639250762701977,
+        -0.060366458388752334
+      ]
+    ],
+    "translation": [
+      813.5566523728208,
+      364.4813668572711
+    ],
+    "mean_error_px": 3.0384322903813192,
+    "std_error_px": 2.829579397025882,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

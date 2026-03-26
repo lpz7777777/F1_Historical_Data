@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1224,
+  "meeting_name": "São Paulo Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Interlagos",
+  "reference_session_key": 9205,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Brazil_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.00022013388439863596,
+        0.09514045054493735
+      ],
+      [
+        0.0951404505449374,
+        0.00022013388439864938
+      ]
+    ],
+    "translation": [
+      888.4540503802984,
+      437.4977608645078
+    ],
+    "mean_error_px": 6.034515149847195,
+    "std_error_px": 5.316922963886403,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

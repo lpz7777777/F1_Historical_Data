@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1208,
+  "meeting_name": "Miami Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Miami",
+  "reference_session_key": 9078,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.07576342184046961,
+        0.0007406717181308213
+      ],
+      [
+        0.0007406717181308087,
+        -0.07576342184046957
+      ]
+    ],
+    "translation": [
+      394.9091175060741,
+      212.833632963638
+    ],
+    "mean_error_px": 5.2057579886277345,
+    "std_error_px": 4.092839068019666,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

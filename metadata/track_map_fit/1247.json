@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1247,
+  "meeting_name": "United States Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Austin",
+  "reference_session_key": 9617,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.059989796905083,
+        0.005992469808133223
+      ],
+      [
+        0.005992469808133218,
+        -0.05998979690508295
+      ]
+    ],
+    "translation": [
+      219.8768825581699,
+      392.39479505326074
+    ],
+    "mean_error_px": 2.9226850473875006,
+    "std_error_px": 3.1060781575438723,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

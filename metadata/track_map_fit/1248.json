@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1248,
+  "meeting_name": "Mexico City Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Mexico City",
+  "reference_session_key": 9625,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.06647932133333029,
+        -0.00890060697802964
+      ],
+      [
+        -0.008900606978029657,
+        -0.06647932133333026
+      ]
+    ],
+    "translation": [
+      294.66379239446434,
+      127.58473434579268
+    ],
+    "mean_error_px": 2.8802537839067925,
+    "std_error_px": 2.3404083508232243,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

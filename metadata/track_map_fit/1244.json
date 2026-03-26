@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1244,
+  "meeting_name": "Italian Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Monza",
+  "reference_session_key": 9590,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.0035860980592361587,
+        -0.044383240404986826
+      ],
+      [
+        -0.044383240404986854,
+        0.003586098059236154
+      ]
+    ],
+    "translation": [
+      872.499769713692,
+      492.3607455030054
+    ],
+    "mean_error_px": 1.5390813818360245,
+    "std_error_px": 1.4969430056902686,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

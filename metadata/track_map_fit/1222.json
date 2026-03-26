@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1222,
+  "meeting_name": "United States Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Austin",
+  "reference_session_key": 9213,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/USA_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.05999334656039766,
+        0.005992952453873133
+      ],
+      [
+        0.005992952453873117,
+        -0.059993346560397655
+      ]
+    ],
+    "translation": [
+      219.8086688641134,
+      392.356509435404
+    ],
+    "mean_error_px": 2.9552110059480925,
+    "std_error_px": 3.1251044070822647,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1207,
+  "meeting_name": "Azerbaijan Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Baku",
+  "reference_session_key": 9070,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Baku_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.029650097302077575,
+        0.03883954661939051
+      ],
+      [
+        0.03883954661939049,
+        -0.029650097302077596
+      ]
+    ],
+    "translation": [
+      936.0491106925824,
+      527.9183090369303
+    ],
+    "mean_error_px": 1.7837884946763112,
+    "std_error_px": 2.126860509158762,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

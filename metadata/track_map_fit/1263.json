@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1263,
+  "meeting_name": "Canadian Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Montreal",
+  "reference_session_key": 9963,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.026208639054507196,
+        -0.05430846376855246
+      ],
+      [
+        -0.054308463768552535,
+        -0.026208639054507193
+      ]
+    ],
+    "translation": [
+      977.402259118453,
+      491.93113065606127
+    ],
+    "mean_error_px": 3.6173865259190383,
+    "std_error_px": 4.030554284878328,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

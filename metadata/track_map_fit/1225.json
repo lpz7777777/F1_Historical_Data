@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1225,
+  "meeting_name": "Las Vegas Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Las Vegas",
+  "reference_session_key": 9189,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/common/f1/2026/track/2026tracklasvegasdetailed.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.0007153245842978525,
+        -0.05688869850102976
+      ],
+      [
+        -0.05688869850102972,
+        -0.0007153245842978498
+      ]
+    ],
+    "translation": [
+      1077.8069082581374,
+      242.36311091763775
+    ],
+    "mean_error_px": 8.865507304960863,
+    "std_error_px": 8.745124628651086,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

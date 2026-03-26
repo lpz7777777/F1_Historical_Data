@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1221,
+  "meeting_name": "Qatar Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Lusail",
+  "reference_session_key": 9221,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Qatar_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.033706980223602946,
+        -0.06069770844211558
+      ],
+      [
+        -0.06069770844211555,
+        -0.03370698022360291
+      ]
+    ],
+    "translation": [
+      738.6767559074474,
+      577.10681572094
+    ],
+    "mean_error_px": 2.6545565405643092,
+    "std_error_px": 2.164266500632746,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

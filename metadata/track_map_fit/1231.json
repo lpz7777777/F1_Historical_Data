@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1231,
+  "meeting_name": "Australian Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Melbourne",
+  "reference_session_key": 9488,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Australia_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.039485829667101256,
+        -0.039685756706695406
+      ],
+      [
+        -0.03968575670669544,
+        -0.0394858296671013
+      ]
+    ],
+    "translation": [
+      674.6536084200222,
+      494.4840122689544
+    ],
+    "mean_error_px": 2.604779296152035,
+    "std_error_px": 1.8415453938537072,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1218,
+  "meeting_name": "Italian Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Monza",
+  "reference_session_key": 9157,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Italy_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.0035791511774143567,
+        -0.044377704974965286
+      ],
+      [
+        -0.044377704974965286,
+        0.0035791511774143567
+      ]
+    ],
+    "translation": [
+      872.3296570307074,
+      492.29853506225396
+    ],
+    "mean_error_px": 1.5056413628879834,
+    "std_error_px": 1.4740041198966565,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

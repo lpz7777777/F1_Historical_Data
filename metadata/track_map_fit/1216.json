@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1216,
+  "meeting_name": "Belgian Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Spa-Francorchamps",
+  "reference_session_key": 9141,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Belgium_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.004586102077227081,
+        -0.04856437712880379
+      ],
+      [
+        -0.04856437712880381,
+        0.004586102077227075
+      ]
+    ],
+    "translation": [
+      408.1085490870564,
+      511.4108615424953
+    ],
+    "mean_error_px": 1.9610272705135587,
+    "std_error_px": 2.0944815520248166,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

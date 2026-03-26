@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1232,
+  "meeting_name": "Japanese Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Suzuka",
+  "reference_session_key": 9496,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.052684229659143475,
+        0.0011213940036077462
+      ],
+      [
+        0.0011213940036076953,
+        -0.05268422965914357
+      ]
+    ],
+    "translation": [
+      820.6621162463696,
+      259.60994978850005
+    ],
+    "mean_error_px": 3.0312379824503357,
+    "std_error_px": 3.2691958636960514,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

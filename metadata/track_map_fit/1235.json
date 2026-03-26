@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1235,
+  "meeting_name": "Emilia Romagna Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Imola",
+  "reference_session_key": 9515,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Emilia_Romagna_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.06366050196060566,
+        7.254001702057546e-06
+      ],
+      [
+        7.254001702072261e-06,
+        -0.06366050196060563
+      ]
+    ],
+    "translation": [
+      996.2365957814594,
+      20.192777548616448
+    ],
+    "mean_error_px": 2.0522563418216184,
+    "std_error_px": 1.7833138473340928,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1223,
+  "meeting_name": "Mexico City Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Mexico City",
+  "reference_session_key": 9181,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.06647707499728714,
+        -0.008902305957249671
+      ],
+      [
+        -0.008902305957249708,
+        -0.06647707499728712
+      ]
+    ],
+    "translation": [
+      294.67986287870644,
+      127.57105697063015
+    ],
+    "mean_error_px": 2.89931933966204,
+    "std_error_px": 2.343860478425794,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

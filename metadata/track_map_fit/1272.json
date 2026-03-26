@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1272,
+  "meeting_name": "Mexico City Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Mexico City",
+  "reference_session_key": 9877,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Mexico_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.06647877517544096,
+        -0.00888819525309727
+      ],
+      [
+        -0.008888195253097255,
+        -0.06647877517544087
+      ]
+    ],
+    "translation": [
+      294.73714889344865,
+      127.48793952264009
+    ],
+    "mean_error_px": 2.909648219707647,
+    "std_error_px": 2.352421304473677,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

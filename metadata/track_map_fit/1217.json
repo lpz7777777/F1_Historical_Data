@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1217,
+  "meeting_name": "Dutch Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Zandvoort",
+  "reference_session_key": 9149,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/common/f1/2026/track/2026trackzandvoortdetailed.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.07775604661143248,
+        -0.000894792545942712
+      ],
+      [
+        -0.0008947925459427214,
+        0.07775604661143243
+      ]
+    ],
+    "translation": [
+      920.3001550648443,
+      146.60675837368427
+    ],
+    "mean_error_px": 2.652439858068049,
+    "std_error_px": 2.541060428789688,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

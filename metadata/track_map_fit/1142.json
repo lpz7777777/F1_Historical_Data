@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1142,
+  "meeting_name": "Saudi Arabian Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Jeddah",
+  "reference_session_key": 7779,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.016124230574710536,
+        -0.04199001051609136
+      ],
+      [
+        -0.04199001051609135,
+        0.016124230574710522
+      ]
+    ],
+    "translation": [
+      924.0496039715088,
+      127.45409060254285
+    ],
+    "mean_error_px": 2.9751022058806975,
+    "std_error_px": 2.7891905640356724,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

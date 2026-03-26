@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1240,
+  "meeting_name": "British Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Silverstone",
+  "reference_session_key": 9558,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.00020714817213745662,
+        0.05418233234165832
+      ],
+      [
+        0.054182332341658326,
+        0.0002071481721374454
+      ]
+    ],
+    "translation": [
+      361.4318646553653,
+      165.00593355962332
+    ],
+    "mean_error_px": 4.422902888672637,
+    "std_error_px": 6.559781559785285,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

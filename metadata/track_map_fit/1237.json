@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1237,
+  "meeting_name": "Canadian Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Montreal",
+  "reference_session_key": 9531,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Canada_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.026174075517742854,
+        -0.05429685997968224
+      ],
+      [
+        -0.05429685997968226,
+        -0.026174075517742867
+      ]
+    ],
+    "translation": [
+      978.6005460261066,
+      491.8725785456069
+    ],
+    "mean_error_px": 3.318373986602586,
+    "std_error_px": 3.9253751215372885,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

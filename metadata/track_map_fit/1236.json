@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1236,
+  "meeting_name": "Monaco Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Monte Carlo",
+  "reference_session_key": 9523,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Monaco_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.07039446776250345,
+        0.07005213602208665
+      ],
+      [
+        0.07005213602208671,
+        -0.07039446776250351
+      ]
+    ],
+    "translation": [
+      1217.5733815321819,
+      322.2998916631
+    ],
+    "mean_error_px": 4.273879164768766,
+    "std_error_px": 6.056589374868919,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

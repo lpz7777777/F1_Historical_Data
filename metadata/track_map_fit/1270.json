@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1270,
+  "meeting_name": "Singapore Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Singapore",
+  "reference_session_key": 9896,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Singapore_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.059198956412297936,
+        -0.00013753747211404718
+      ],
+      [
+        -0.0001375374721140513,
+        -0.05919895641229789
+      ]
+    ],
+    "translation": [
+      954.8839479578004,
+      283.43913212065706
+    ],
+    "mean_error_px": 2.336695296915526,
+    "std_error_px": 1.869452676213132,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

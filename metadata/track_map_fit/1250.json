@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1250,
+  "meeting_name": "Las Vegas Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Las Vegas",
+  "reference_session_key": 9644,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Las_Vegas_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.0006900338204775202,
+        -0.05735068419859042
+      ],
+      [
+        -0.05735068419859043,
+        -0.0006900338204775239
+      ]
+    ],
+    "translation": [
+      1081.3588227095984,
+      239.78851215277035
+    ],
+    "mean_error_px": 9.133603355791458,
+    "std_error_px": 8.410640405180457,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

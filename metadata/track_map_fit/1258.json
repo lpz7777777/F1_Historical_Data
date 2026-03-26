@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1258,
+  "meeting_name": "Saudi Arabian Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Jeddah",
+  "reference_session_key": 10022,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Saudi_Arabia_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.01612101875845058,
+        -0.04198120555328841
+      ],
+      [
+        -0.04198120555328844,
+        0.016121018758450574
+      ]
+    ],
+    "translation": [
+      923.9628958291931,
+      127.51364161071523
+    ],
+    "mean_error_px": 2.9698524399000905,
+    "std_error_px": 2.7679120888038526,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

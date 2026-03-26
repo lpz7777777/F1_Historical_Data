@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1257,
+  "meeting_name": "Bahrain Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Sakhir",
+  "reference_session_key": 10014,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Bahrain_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.002657034681138586,
+        -0.06664111813391481
+      ],
+      [
+        -0.06664111813391481,
+        0.0026570346811385947
+      ]
+    ],
+    "translation": [
+      786.0745550877,
+      530.4941108963975
+    ],
+    "mean_error_px": 2.468506102924118,
+    "std_error_px": 1.9614277892739196,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

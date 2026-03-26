@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1220,
+  "meeting_name": "Japanese Grand Prix",
+  "year": 2023,
+  "circuit_short_name": "Suzuka",
+  "reference_session_key": 9173,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Japan_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.05266240786757802,
+        0.0011140588418609317
+      ],
+      [
+        0.0011140588418609172,
+        -0.05266240786757803
+      ]
+    ],
+    "translation": [
+      820.5549574046751,
+      259.55382288313547
+    ],
+    "mean_error_px": 3.008660150513442,
+    "std_error_px": 3.2353318274838085,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

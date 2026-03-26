@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1276,
+  "meeting_name": "Abu Dhabi Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Yas Marina Circuit",
+  "reference_session_key": 9839,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Abu_Dhabi_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.00955281277056655,
+        0.06657064313499322
+      ],
+      [
+        0.06657064313499328,
+        0.009552812770566564
+      ]
+    ],
+    "translation": [
+      433.9893775670466,
+      238.39265246961108
+    ],
+    "mean_error_px": 3.3391585052881494,
+    "std_error_px": 2.994485009414388,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

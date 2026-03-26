@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1277,
+  "meeting_name": "British Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Silverstone",
+  "reference_session_key": 9947,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Great_Britain_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.000211690027783456,
+        0.05417727029480488
+      ],
+      [
+        0.0541772702948049,
+        0.00021169002778344555
+      ]
+    ],
+    "translation": [
+      361.49837038724434,
+      165.02385537370984
+    ],
+    "mean_error_px": 4.3744917555739455,
+    "std_error_px": 6.430006319086262,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1234,
+  "meeting_name": "Miami Grand Prix",
+  "year": 2024,
+  "circuit_short_name": "Miami",
+  "reference_session_key": 9507,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Miami_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.07584455373979503,
+        0.0008148586035863874
+      ],
+      [
+        0.0008148586035863735,
+        -0.075844553739795
+      ]
+    ],
+    "translation": [
+      393.51998245904474,
+      212.37479821080606
+    ],
+    "mean_error_px": 5.220675565921752,
+    "std_error_px": 4.103106950821357,
+    "flip_x": 1,
+    "flip_y": -1
+  }
+}

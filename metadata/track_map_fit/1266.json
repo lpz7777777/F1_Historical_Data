@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1266,
+  "meeting_name": "Hungarian Grand Prix",
+  "year": 2025,
+  "circuit_short_name": "Hungaroring",
+  "reference_session_key": 9928,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/content/dam/fom-website/2018-redesign-assets/Circuit%20maps%2016x9/Hungary_Circuit.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.040571311081896426,
+        0.04955673831811765
+      ],
+      [
+        0.04955673831811764,
+        -0.04057131108189642
+      ]
+    ],
+    "translation": [
+      461.9092518391439,
+      506.7528018879391
+    ],
+    "mean_error_px": 2.7360191429159317,
+    "std_error_px": 2.4044609807401542,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}
