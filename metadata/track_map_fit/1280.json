@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1280,
+  "meeting_name": "Chinese Grand Prix",
+  "year": 2026,
+  "circuit_short_name": "Shanghai",
+  "reference_session_key": 11245,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/common/f1/2026/track/2026trackshanghaidetailed.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        -0.035486695441506975,
+        0.05644856079052826
+      ],
+      [
+        0.0564485607905283,
+        0.03548669544150698
+      ]
+    ],
+    "translation": [
+      577.073743716389,
+      453.0473238013591
+    ],
+    "mean_error_px": 1.8431839440484237,
+    "std_error_px": 2.7824601866047676,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

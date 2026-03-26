@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1279,
+  "meeting_name": "Australian Grand Prix",
+  "year": 2026,
+  "circuit_short_name": "Melbourne",
+  "reference_session_key": 11234,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/common/f1/2026/track/2026trackmelbournedetailed.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.03940759867591175,
+        -0.03987292931747625
+      ],
+      [
+        -0.03987292931747625,
+        -0.03940759867591173
+      ]
+    ],
+    "translation": [
+      693.1998889356079,
+      518.4544200590335
+    ],
+    "mean_error_px": 1.8412176759404564,
+    "std_error_px": 1.5521946679592273,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}
