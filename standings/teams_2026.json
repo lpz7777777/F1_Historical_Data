@@ -2,49 +2,49 @@
   {
     "position": 1,
     "team_name": "Mercedes",
-    "points": 98,
+    "points": 135,
     "wins": 0,
     "team_color": null
   },
   {
     "position": 2,
     "team_name": "Ferrari",
-    "points": 67,
+    "points": 90,
     "wins": 0,
     "team_color": null
   },
   {
     "position": 3,
     "team_name": "McLaren",
-    "points": 18,
+    "points": 46,
     "wins": 0,
     "team_color": null
   },
   {
     "position": 4,
     "team_name": "Haas F1 Team",
-    "points": 17,
+    "points": 18,
     "wins": 0,
     "team_color": null
   },
   {
     "position": 5,
-    "team_name": "Red Bull Racing",
-    "points": 12,
+    "team_name": "Alpine",
+    "points": 16,
     "wins": 0,
     "team_color": null
   },
   {
     "position": 6,
-    "team_name": "Racing Bulls",
-    "points": 12,
+    "team_name": "Red Bull Racing",
+    "points": 16,
     "wins": 0,
     "team_color": null
   },
   {
     "position": 7,
-    "team_name": "Alpine",
-    "points": 10,
+    "team_name": "Racing Bulls",
+    "points": 14,
     "wins": 0,
     "team_color": null
   },

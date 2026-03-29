@@ -1,0 +1,35 @@
+{
+  "schema_version": 1,
+  "fit_scope": "meeting_race_location",
+  "meeting_key": 1281,
+  "meeting_name": "Japanese Grand Prix",
+  "year": 2026,
+  "circuit_short_name": "Suzuka",
+  "reference_session_key": 11253,
+  "reference_session_name": "Race",
+  "track_image_url": "https://media.formula1.com/image/upload/c_fit,h_704/q_auto/v1740000000/common/f1/2026/track/2026tracksuzukadetailed.webp",
+  "track_image_size": {
+    "width": 1252,
+    "height": 704
+  },
+  "fit": {
+    "matrix_2x2": [
+      [
+        0.05339527547752613,
+        0.001194391608577575
+      ],
+      [
+        0.0011943916085775871,
+        -0.053395275477526115
+      ]
+    ],
+    "translation": [
+      838.7085951898086,
+      251.33556241126422
+    ],
+    "mean_error_px": 3.5046046593490905,
+    "std_error_px": 3.80392011101321,
+    "flip_x": -1,
+    "flip_y": 1
+  }
+}

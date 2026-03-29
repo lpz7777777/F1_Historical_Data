@@ -3,21 +3,21 @@
     "position": 1,
     "forenames": "",
     "surname": "",
-    "acronym": "RUS",
+    "acronym": "ANT",
     "team_name": "Mercedes",
-    "points": 51,
+    "points": 72,
     "wins": 0,
-    "country_code": "GBR"
+    "country_code": "ITA"
   },
   {
     "position": 2,
     "forenames": "",
     "surname": "",
-    "acronym": "ANT",
+    "acronym": "RUS",
     "team_name": "Mercedes",
-    "points": 47,
+    "points": 63,
     "wins": 0,
-    "country_code": "ITA"
+    "country_code": "GBR"
   },
   {
     "position": 3,
@@ -25,7 +25,7 @@
     "surname": "",
     "acronym": "LEC",
     "team_name": "Ferrari",
-    "points": 34,
+    "points": 49,
     "wins": 0,
     "country_code": "MON"
   },
@@ -35,12 +35,32 @@
     "surname": "",
     "acronym": "HAM",
     "team_name": "Ferrari",
-    "points": 33,
+    "points": 41,
     "wins": 0,
     "country_code": "GBR"
   },
   {
     "position": 5,
+    "forenames": "",
+    "surname": "",
+    "acronym": "NOR",
+    "team_name": "McLaren",
+    "points": 25,
+    "wins": 0,
+    "country_code": "GBR"
+  },
+  {
+    "position": 6,
+    "forenames": "",
+    "surname": "",
+    "acronym": "PIA",
+    "team_name": "McLaren",
+    "points": 21,
+    "wins": 0,
+    "country_code": "AUS"
+  },
+  {
+    "position": 7,
     "forenames": "",
     "surname": "",
     "acronym": "BEA",
@@ -50,47 +70,37 @@
     "country_code": "GBR"
   },
   {
-    "position": 6,
-    "forenames": "",
-    "surname": "",
-    "acronym": "NOR",
-    "team_name": "McLaren",
-    "points": 15,
-    "wins": 0,
-    "country_code": "GBR"
-  },
-  {
-    "position": 7,
+    "position": 8,
     "forenames": "",
     "surname": "",
     "acronym": "GAS",
     "team_name": "Alpine",
-    "points": 9,
+    "points": 15,
     "wins": 0,
     "country_code": "FRA"
-  },
-  {
-    "position": 8,
-    "forenames": "",
-    "surname": "",
-    "acronym": "VER",
-    "team_name": "Red Bull Racing",
-    "points": 8,
-    "wins": 0,
-    "country_code": "NED"
   },
   {
     "position": 9,
     "forenames": "",
     "surname": "",
+    "acronym": "VER",
+    "team_name": "Red Bull Racing",
+    "points": 12,
+    "wins": 0,
+    "country_code": "NED"
+  },
+  {
+    "position": 10,
+    "forenames": "",
+    "surname": "",
     "acronym": "LAW",
     "team_name": "Racing Bulls",
-    "points": 8,
+    "points": 10,
     "wins": 0,
     "country_code": "NZL"
   },
   {
-    "position": 10,
+    "position": 11,
     "forenames": "",
     "surname": "",
     "acronym": "LIN",
@@ -100,7 +110,7 @@
     "country_code": "GBR"
   },
   {
-    "position": 11,
+    "position": 12,
     "forenames": "",
     "surname": "",
     "acronym": "HAD",
@@ -110,27 +120,7 @@
     "country_code": "FRA"
   },
   {
-    "position": 12,
-    "forenames": "",
-    "surname": "",
-    "acronym": "PIA",
-    "team_name": "McLaren",
-    "points": 3,
-    "wins": 0,
-    "country_code": "AUS"
-  },
-  {
     "position": 13,
-    "forenames": "",
-    "surname": "",
-    "acronym": "SAI",
-    "team_name": "Williams",
-    "points": 2,
-    "wins": 0,
-    "country_code": "ESP"
-  },
-  {
-    "position": 14,
     "forenames": "",
     "surname": "",
     "acronym": "BOR",
@@ -140,7 +130,27 @@
     "country_code": "BRA"
   },
   {
+    "position": 14,
+    "forenames": "",
+    "surname": "",
+    "acronym": "SAI",
+    "team_name": "Williams",
+    "points": 2,
+    "wins": 0,
+    "country_code": "ESP"
+  },
+  {
     "position": 15,
+    "forenames": "",
+    "surname": "",
+    "acronym": "OCO",
+    "team_name": "Haas F1 Team",
+    "points": 1,
+    "wins": 0,
+    "country_code": "FRA"
+  },
+  {
+    "position": 16,
     "forenames": "",
     "surname": "",
     "acronym": "COL",
@@ -148,16 +158,6 @@
     "points": 1,
     "wins": 0,
     "country_code": "ARG"
-  },
-  {
-    "position": 16,
-    "forenames": "",
-    "surname": "",
-    "acronym": "OCO",
-    "team_name": "Haas F1 Team",
-    "points": 0,
-    "wins": 0,
-    "country_code": "FRA"
   },
   {
     "position": 17,
